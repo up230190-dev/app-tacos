@@ -1,4 +1,4 @@
-# 🌮 App Tacos — Sistema POS Profesional
+# App Tacos — Sistema 
  
 Sistema completo de punto de venta para taquería.  
 Backend: **TypeScript + Node.js + Express**  
@@ -48,14 +48,14 @@ app-tacos/
 ## Instalación
  
 ### Backend
-```bash
+```
 cd backend
 npm install
 npm run dev        # http://localhost:3001
 ```
  
-### Frontend (otra terminal)
-```bash
+### Frontend 
+```
 cd frontend
 npm install
 npm start          # http://localhost:3000
